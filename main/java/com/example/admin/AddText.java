@@ -1,5 +1,5 @@
 package com.example.admin;
-
+чё
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
 import android.support.v7.app.AppCompatActivity;
